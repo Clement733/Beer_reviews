@@ -4,6 +4,7 @@
 
     Author: Clément Cipriani
     Date: 14 June 2023
+    Dataset: https://www.kaggle.com/datasets/rdoume/beerreviews
 
 👋 Introduction
 
