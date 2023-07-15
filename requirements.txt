@@ -6,4 +6,3 @@ plotly.express
 panel
 hvplot.pandas
 holoviews
-hv.extension('bokeh')
